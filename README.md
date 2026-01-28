@@ -55,7 +55,7 @@ I'm a ** DevOps and Platform Engineering** from 🇮🇳 India, with **3+ years*
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/aniket-khobragade-8b459b138/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketkhobragade@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aniketkhobragade42@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketkhobragade@gmail.com)
 
 </div>
 
@@ -63,9 +63,3 @@ I'm a ** DevOps and Platform Engineering** from 🇮🇳 India, with **3+ years*
 
 <div align="center">
   
-### 💡 "Building the future, one deployment at a time" 
-
-![Profile Views](https://komarev.com/ghpvc/?username=LondheShubham153&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/LondheShubham153?label=Follow&style=social)](https://github.com/LondheShubham153)
-
-</div>
