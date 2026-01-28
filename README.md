@@ -1,6 +1,5 @@
 <div align="center">
-  
-https://readme-typing-svg.herokuapp.com/demo/?color=4314F7&lines=DevOps+Engineering
+DevOps+Engineering
 </div>
 
 ---
